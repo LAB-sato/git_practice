@@ -1,3 +1,3 @@
-##git練習用リポジトリ
+# git練習用リポジトリ
 
 new branch test
